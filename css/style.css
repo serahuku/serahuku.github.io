@@ -164,14 +164,7 @@
 				width: 42%;
 				display: block;
 			}	
-				.photo2:hover {
- 				border-radius: 10px;
-				-moz-transform: rotate(2deg);
-				-ms-transform: rotate(2deg);
-				-o-transform: rotate(2deg);
-				-webkit-transform: rotate(2deg);
-				transform: rotate(2deg);
-			}
+				
       .photo > img {
 				width: 100%;
 				max-width: 320px;
